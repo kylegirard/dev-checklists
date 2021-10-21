@@ -31,7 +31,7 @@ ___
   - Dictionaries and sets
 - Operators 
   - Assignment 
-  - Arithmetic 
+  - Arithmetic
   - Increment/decrement 
   - Logical
   - Membership
