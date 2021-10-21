@@ -85,10 +85,6 @@ ___
 ### Competency Level: Novice 
 ___
 #### Concepts
-  - Debugging
-    - bdb
-    - pdb
-    - faulthandler 
   - Using python packages from PyPi
   - Object oriented programming
     - Classes
@@ -122,6 +118,10 @@ ___
   - Context managers 
     - with
     - Custom
+  - Debugging
+    - bdb
+    - pdb
+    - faulthandler 
   - Working with APIs
     - Key management 
     - Requests 
