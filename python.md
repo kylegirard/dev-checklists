@@ -85,159 +85,159 @@ ___
 ### Competency Level: Novice 
 ___
 #### Concepts
-  - [ ] Using python packages from PyPi
-  - [ ] Object oriented programming
-    - [ ] Classes
-    - [ ] Methods
-    - [ ] Multiple inheritance 
-    - [ ] Properties 
-    - [ ] Special methods
-    - [ ] [SOLID, DRY principles] 
-  - [ ] Emulating built-in types  
-  - [ ] Intermediate built-in functions
-    - [ ] Var
-  - [ ] Overrides 
-  - [ ] Working with types
-    - [ ] Type hints & type aliases
-  - [ ] Testing
-    - [ ] Unittest
-    - [ ] BDD
-  - [ ] Iterator and generator
-  - [ ] Decorators
-  - [ ] Lambda expressions 
-  - [ ] Regular expressions
-  - [ ] Logging 
-  - [ ] Text processing 
-  - [ ] Documentation
-    - [ ] Comments vs documentation
-    - [ ] Docstrings
-  - [ ] File handling
-    - [ ] Files
-    - [ ] Directories
-    - [ ] Paths 
-  - [ ] Context managers 
-    - [ ] with
-    - [ ] Custom
-  - [ ] Debugging
-    - [ ] bdb
-    - [ ] pdb
-    - [ ] faulthandler 
-  - [ ] Working with APIs
-    - [ ] Key management 
-    - [ ] Requests 
-      - [ ] Verbs (get, post, update, delete)
-      - [ ] Headers 
-    - [ ] Error handling
-  - [ ] Method chaining
-  - [ ] Design patterns
-    - [ ] Basic
-    - [ ] Complex
-  - [ ] Working with CSV data
-    - [ ] Pandas Library 
-  - [ ] Working with JSON data
-  - [ ] Sending email
-  - [ ] GUI 
-    - [ ] Tkinter
-    - [ ] event listeners 
-  - [ ] Functional Python
-    - [ ] Map
-    - [ ] Reduce
-    - [ ] Filter
-  - [ ] Language Mechanics
-    - [ ] Interpreted and compiled
-    - [ ] Variables 
-    - [ ] Memory management 
-      - [ ] Garbage collection
+- [ ] Using python packages from PyPi
+- [ ] Object oriented programming
+  - [ ] Classes
+  - [ ] Methods
+  - [ ] Multiple inheritance 
+  - [ ] Properties 
+  - [ ] Special methods
+  - [ ] [SOLID, DRY principles] 
+- [ ] Emulating built-in types  
+- [ ] Intermediate built-in functions
+  - [ ] Var
+- [ ] Overrides 
+- [ ] Working with types
+  - [ ] Type hints & type aliases
+- [ ] Testing
+  - [ ] Unittest
+  - [ ] BDD
+- [ ] Iterator and generator
+- [ ] Decorators
+- [ ] Lambda expressions 
+- [ ] Regular expressions
+- [ ] Logging 
+- [ ] Text processing 
+- [ ] Documentation
+  - [ ] Comments vs documentation
+  - [ ] Docstrings
+- [ ] File handling
+  - [ ] Files
+  - [ ] Directories
+  - [ ] Paths 
+- [ ] Context managers 
+  - [ ] with
+  - [ ] Custom
+- [ ] Debugging
+  - [ ] bdb
+  - [ ] pdb
+  - [ ] faulthandler 
+- [ ] Working with APIs
+  - [ ] Key management 
+  - [ ] Requests 
+    - [ ] Verbs (get, post, update, delete)
+    - [ ] Headers 
+  - [ ] Error handling
+- [ ] Method chaining
+- [ ] Design patterns
+  - [ ] Basic
+  - [ ] Complex
+- [ ] Working with CSV data
+  - [ ] Pandas Library 
+- [ ] Working with JSON data
+- [ ] Sending email
+- [ ] GUI 
+  - [ ] Tkinter
+  - [ ] event listeners 
+- [ ] Functional Python
+  - [ ] Map
+  - [ ] Reduce
+  - [ ] Filter
+- [ ] Language Mechanics
+  - [ ] Interpreted and compiled
+  - [ ] Variables 
+  - [ ] Memory management 
+    - [ ] Garbage collection
 #### Projects
-  - [ ] Create a library
-    - [ ] Concepts
-      - [ ] Modules, packages, libraries
-      - [ ] PyPi
-  - [ ] CLI
-    - [ ] Project structure
-      - [ ] Directory 
-      - [ ] Application
-      - [ ] Configuration
-    - [ ] Capturing user input
-    - [ ] Documentation
-    - [ ] Packaging & deployment 
-  - [ ] APIs
-    - [ ] Django
-      - [ ] Routes
-      - [ ] Models
-    - [ ] Flask
-  - [ ] Lambda functions
-    - [ ] AWS
-    - [ ] Google
+- [ ] Create a library
+  - [ ] Concepts
+    - [ ] Modules, packages, libraries
+    - [ ] PyPi
+- [ ] CLI
+  - [ ] Project structure
+    - [ ] Directory 
+    - [ ] Application
+    - [ ] Configuration
+  - [ ] Capturing user input
+  - [ ] Documentation
+  - [ ] Packaging & deployment 
+- [ ] APIs
+  - [ ] Django
+    - [ ] Routes
+    - [ ] Models
+  - [ ] Flask
+- [ ] Lambda functions
+  - [ ] AWS
+  - [ ] Google
 ### Competency Level: Competent
 ___
 #### Concepts
-  - [ ] Working with types
-    - [ ] NewType (stdlib)
-    - [ ] Callable (stdlib)
-    - [ ] Generics 
-    - [ ] Subtyping
-      - [ ] Nominal 
-      - [ ] Structural
-  - [ ] Profiling tools
-    - [ ] cProfile
-    - [ ] timeit (benchmarking)
-    - [ ] trace 
-    - [ ] tracemalloc 
-  - [ ] Building frameworks
-  - [ ] Data persistence 
-    - [ ] Serialization
-      - [ ] pickle
-      - [ ] marshal
-    - [ ] Databases
-      - [ ] SQLite 
-      - [ ] Postgres w/Django models
-  - [ ] Data compression 
-    - [ ] zlib
-    - [ ] gzip
-    - [ ] tarfile
-  - [ ] Web Scraping 
-    - [ ] Beautiful Soup
-  - [ ] Webdriver 
-    - [ ] Selenium 
-  - [ ] Web development 
-    - [ ] Flask
-      - [ ] Forms
-      - [ ] Routing 
-      - [ ] Authentication 
-    - [ ] Django 
-    - [ ] Deployment 
-      - [ ] Heroku 
-  - [ ] Data science
-    - [ ] Jypter notebooks
-    - [ ] Data exploration 
-    - [ ] Libraries 
-      - [ ] Pandas
-      - [ ] NumPy
-      - [ ] Plotly
-      - [ ] Matploylib
-      - [ ] Seaborn
-  - [ ] Working with C code
-    - [ ] Extension modules 
-  - [ ] Closures
-  - [ ] More on Types 
-    - [ ] Metaclasses
-    - [ ] Introspection
-  - [ ] Concurrency 
-    - [ ] Multiprocessing
-    - [ ] Threading
-    - [ ] GIL workarounds
-  - [ ] Cryptography
-    - [ ] hashlib
-    - [ ] hmac
-    - [ ] secrets 
-  - [ ] Dynamic language support 
-    - [ ] Java
+- [ ] Working with types
+  - [ ] NewType (stdlib)
+  - [ ] Callable (stdlib)
+  - [ ] Generics 
+  - [ ] Subtyping
+    - [ ] Nominal 
+    - [ ] Structural
+- [ ] Profiling tools
+  - [ ] cProfile
+  - [ ] timeit (benchmarking)
+  - [ ] trace 
+  - [ ] tracemalloc 
+- [ ] Building frameworks
+- [ ] Data persistence 
+  - [ ] Serialization
+    - [ ] pickle
+    - [ ] marshal
+  - [ ] Databases
+    - [ ] SQLite 
+    - [ ] Postgres w/Django models
+- [ ] Data compression 
+  - [ ] zlib
+  - [ ] gzip
+  - [ ] tarfile
+- [ ] Web Scraping 
+  - [ ] Beautiful Soup
+- [ ] Webdriver 
+  - [ ] Selenium 
+- [ ] Web development 
+  - [ ] Flask
+    - [ ] Forms
+    - [ ] Routing 
+    - [ ] Authentication 
+  - [ ] Django 
+  - [ ] Deployment 
+    - [ ] Heroku 
+- [ ] Data science
+  - [ ] Jypter notebooks
+  - [ ] Data exploration 
+  - [ ] Libraries 
+    - [ ] Pandas
+    - [ ] NumPy
+    - [ ] Plotly
+    - [ ] Matploylib
+    - [ ] Seaborn
+- [ ] Working with C code
+  - [ ] Extension modules 
+- [ ] Closures
+- [ ] More on Types 
+  - [ ] Metaclasses
+  - [ ] Introspection
+- [ ] Concurrency 
+  - [ ] Multiprocessing
+  - [ ] Threading
+  - [ ] GIL workarounds
+- [ ] Cryptography
+  - [ ] hashlib
+  - [ ] hmac
+  - [ ] secrets 
+- [ ] Dynamic language support 
+  - [ ] Java
 #### Projects
-  - [ ] Web scraper 
-  - [ ] Bot
-  - [ ] API
-  - [ ] Image processing 
+- [ ] Web scraper 
+- [ ] Bot
+- [ ] API
+- [ ] Image processing 
 
 <br>
 
