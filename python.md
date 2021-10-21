@@ -17,9 +17,9 @@ ___
   - [ ] Strings
   - [ ] Float
 - [ ] Basic built-in functions
-  - [ ] Print
-  - [ ] Type
-  - [ ] Id
+  - [ ] print
+  - [ ] type
+  - [ ] id
 - [ ] Basic data structures 
   - [ ] Sequences
     - [ ] Strings
