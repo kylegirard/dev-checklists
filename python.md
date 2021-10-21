@@ -1,0 +1,224 @@
+# Python Fundamentals
+
+What does it mean to be a competent python programmer? 
+
+Knowledge/ability of the following:
+- Idiomatic syntax for the language 
+- Language features (e.g., stdlib, memory mgmt, closures, scopes, monads)
+- Popular libraries
+- Projects (scenarios)
+- Environment configurations
+  - Local
+  - Production
+- Shortcomings of the language
+  - & workarounds 
+- How the language is compiled/interpreted for runtime
+
+<br> 
+
+### An Outline Towards Competency 
+- Python (Beginner)
+  - Concepts 
+    - Basic environment setup
+    - Variables
+      - Local
+      - Global
+      - Naming
+    - Basic types
+      - Integers
+        - Decimal form 
+        - Binary form
+        - Octal form
+        - Hexa form
+      - constant floating point values (3.2 x 10^-12)
+      - strings
+      - float
+      - hexadecimals 
+    - Basic built-in functions
+      - Print
+      - Type
+      - Id
+    - Basic data structures 
+      - Sequences
+        - Strings
+          - Functions
+          - String formatting 
+          - Fstrings 
+        - Lists
+        - Tuples
+      - Dictionaries and Sets
+    - Operators 
+      - assignment 
+      - arithmetic 
+      - increment/decrement 
+      - logical
+      - membership
+      - identity
+    - Type Casting
+    - Mutability 
+    - Control flow
+      - if else
+    - Conditional Execution
+    - Iteration
+    - Loops
+      - For 
+      - While
+    - Comprehensions
+      - Lists
+      - Dicts 
+    - Modules & imports 
+    - Errors
+      - Types
+      - Exception handling 
+      - Debugging
+        - pdb 
+        - vscode
+    - Functions
+      - Definition and use
+      - Arguments
+        - Position args
+        - Key word args
+        - Indiscriminate args (*args, **kwargs)
+      - As objects (higher order functions)
+      - block structure
+      - Scope
+      - Recursion
+    - Scopes and Namespaces
+    - User input
+      - Input validation 
+    - Comments 
+      - Single & multiline 
+    - Style guides
+    - Basic Standard Library
+      - Dates & times
+      - Random numbers
+      - Math library
+  - Projects
+    - Script w/ modules
+- Python (Novice)
+  - Concepts
+    - Using python packages from PyPi
+    - Object Oriented Programming
+      - Classes
+      - Methods
+      - Multiple inheritance 
+      - Properties 
+      - Special methods
+      - [SOLID, DRY principles] 
+    - Emulating built-in types  
+    - Intermediate built-in functions
+      - var
+    - Overrides 
+    - Testing
+      - Unittest
+      - BDD
+    - Iterator and Generator
+    - Decorators
+    - Lambda Expressions 
+    - Regular Expressions
+    - Logging 
+    - Text processing 
+    - Documentation
+    - File Handling
+      - Files
+      - Directories
+      - Paths 
+    - Context managers 
+      - with
+      - Custom
+    - Making API calls
+      - key management 
+      - requests 
+        - verbs (get, post, update, delete)
+        - headers 
+      - error handling
+    - Method Chaining 
+    - Design patterns
+      - Basic
+      - Complex
+    - Working with CSV data
+      - Pandas Library 
+    - Working with JSON data
+    - Sending email
+    - GUI 
+      - Tkinter
+      - event listeners 
+    - Functional Python
+      - Map
+      - Reduce
+      - Filter
+  - Projects
+    - Create a library
+      - Concepts
+        - Modules, Packages, Libraries
+        - PyPi
+    - CLI
+      - Project structure
+        - Directory 
+        - Application
+        - Configuration
+      - Capturing user input
+      - Documentation
+      - Packaging & Deployment 
+    - APIs
+      - Django
+        - Routes
+        - Models
+      - Flask
+    - Lambda Functions
+      - AWS
+      - Google
+- Python (Competent)
+  - Concepts 
+    - Profiling Tools
+    - Building Frameworks
+    - Databases
+      - SQLite 
+      - Postgres w/Django models
+    - Web Scraping 
+      - Beautiful Soup
+    - Webdriver 
+      - Selenium 
+    - Web development 
+      - Flask
+        - Forms
+        - Routing 
+        - Authentication 
+      - Django 
+      - Deployment 
+        - Heroku 
+    - Data science
+      - Jypter notebooks
+      - Data exploration 
+      - Libraries 
+        - Pandas
+        - NumPy
+        - Plotly
+        - Matploylib
+        - Seaborn
+    - Working with C code
+      - Extension Modules 
+    - Closures
+    - More on Types 
+      - Metaclasses
+      - Introspection
+    - Concurrency 
+      - Multiprocessing
+      - Multithreading
+      - GIL workarounds
+    - Dynamic Language support 
+      - Java
+  - Projects 
+    - Web Scraper 
+    - Bot
+    - API
+    - Image processing 
+
+
+### Favorite resources 
+- https://realpython.com/
+- https://www.udemy.com/course/100-days-of-code/
+- 
+    
+### Good Resources 
+- https://book.pythontips.com/
