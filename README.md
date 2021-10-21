@@ -1,6 +1,6 @@
 
 ## Developer Checklists
-The goal of the project is to create a set of comprehensive checklists that developers can use to fill-in their knowledge gaps. 
+The goal of the project is to create extensive checklists that developers can use to fill-in their knowledge gaps, and to provide context to where they're at in their learning journey. 
 
 ## Contributing
 Did you notice something missing or that could be improved? Please consider contributing. 
