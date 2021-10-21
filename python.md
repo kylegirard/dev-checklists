@@ -49,12 +49,14 @@ ___
   - Lists
   - Dicts 
 - Modules & imports 
-- Errors
+- Errors and Exceptions 
   - Types
   - Exception handling 
-- Debugging
-  - pdb 
-  - vscode
+  - Raising exceptions
+  - Exception chaining
+  - User-defined exceptions
+- Elementary debugging 
+  - print
 - Functions
   - Definition and use
   - Arguments
@@ -83,6 +85,10 @@ ___
 ### Competency Level: Novice 
 ___
 #### Concepts
+  - Debugging
+    - bdb
+    - pdb
+    - faulthandler 
   - Using python packages from PyPi
   - Object oriented programming
     - Classes
@@ -95,6 +101,8 @@ ___
   - Intermediate built-in functions
     - Var
   - Overrides 
+  - Working with types
+    - Type hints & type aliases
   - Testing
     - Unittest
     - BDD
@@ -120,7 +128,7 @@ ___
       - Verbs (get, post, update, delete)
       - Headers 
     - Error handling
-  - Method chaining 
+  - Method chaining
   - Design patterns
     - Basic
     - Complex
@@ -164,11 +172,30 @@ ___
 ### Competency Level: Competent
 ___
 #### Concepts
+  - Working with types
+    - NewType (stdlib)
+    - Callable (stdlib)
+    - Generics 
+    - Subtyping
+      - Nominal 
+      - Structural
   - Profiling tools
+    - cProfile
+    - timeit (benchmarking)
+    - trace 
+    - tracemalloc 
   - Building frameworks
-  - Databases
-    - SQLite 
-    - Postgres w/Django models
+  - Data persistence 
+    - Serialization
+      - pickle
+      - marshal
+    - Databases
+      - SQLite 
+      - Postgres w/Django models
+  - Data compression 
+    - zlib
+    - gzip
+    - tarfile
   - Web Scraping 
     - Beautiful Soup
   - Webdriver 
@@ -198,8 +225,12 @@ ___
     - Introspection
   - Concurrency 
     - Multiprocessing
-    - Multithreading
+    - Threading
     - GIL workarounds
+  - Cryptography
+    - hashlib
+    - hmac
+    - secrets 
   - Dynamic language support 
     - Java
 #### Projects
