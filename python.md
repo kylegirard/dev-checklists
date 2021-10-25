@@ -100,8 +100,20 @@ ___
 - [ ] Working with types
   - [ ] Type hints & type aliases
 - [ ] Testing
-  - [ ] Unittest
-  - [ ] BDD
+  - [ ] unittest
+    - [ ] Test case
+    - [ ] Setup & teardown
+    - [ ] Running test from cli
+    - [ ] Test runner
+    - [ ] Fixtures
+    - [ ] Suites
+  - [ ] unittest-mocks
+  - [ ] pytest
+    - [ ] Fixtures 
+    - [ ] Marks
+    - [ ] Parameterization 
+  - [ ] pytest-bdd
+  - [ ] Best practices 
 - [ ] Iterator and generator
 - [ ] Decorators
 - [ ] Lambda expressions 
