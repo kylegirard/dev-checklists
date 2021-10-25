@@ -1,0 +1,42 @@
+- [ ] Engineering workflows
+  - [ ] Waterfall 
+  - [ ] Agile
+  - [ ] ...
+- [ ] Language paradigms
+  - [ ] Object Oriented
+    - [ ] Principles 
+      - [ ] Abstraction
+      - [ ] Encapsulation 
+      - [ ] Inheritance 
+      - [ ] Polymorphism 
+    - [ ] Design Principles
+      - [ ] SOLID
+      - [ ] DRY
+      - [ ] YAGIN
+  - [ ] Functional 
+  - [ ] Procedural 
+- [ ] Software architecture 
+  - [ ] Patterns 
+  - [ ] Diagramming 
+    - [ ] UML diagrams 
+      - [ ] Class diagrams
+      - [ ] Activity diagrams 
+      - [ ] Sequence diagrams 
+      - [ ] Entity relationship diagram
+      - [ ] Flow diagrams
+      - [ ] Use-case diagrams
+      - [ ] Package diagrams 
+      - [ ] State diagrams
+- [ ] Coding practices 
+  - [ ] Testing
+    - [ ] Why test
+      - [ ] Design benefits   
+      - [ ] Documentation expectations
+      - [ ] Regression protection 
+    - [ ] Testing pyramid 
+    - [ ] Outside-in testing
+    - [ ] Test doubles
+    - [ ] BDD 
+    - [ ] TDD & TCR
+- [ ] Systems architecture 
+  - [ ] Patterns 
