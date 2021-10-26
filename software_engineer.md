@@ -1,6 +1,8 @@
 - [ ] Engineering workflows
   - [ ] Waterfall 
+  - [ ] XP 
   - [ ] Agile
+  - [ ] 
   - [ ] ...
 - [ ] Language paradigms
   - [ ] Object Oriented
@@ -12,10 +14,10 @@
     - [ ] Design Principles
       - [ ] SOLID
       - [ ] DRY
-      - [ ] YAGIN
+      - [ ] YAGINI
   - [ ] Functional 
   - [ ] Procedural 
-- [ ] Software architecture 
+- [ ] Software design processes 
   - [ ] Patterns 
   - [ ] Diagramming 
     - [ ] UML diagrams 
@@ -27,15 +29,27 @@
       - [ ] Use-case diagrams
       - [ ] Package diagrams 
       - [ ] State diagrams
+    - [ ] Upfront design
+    - [ ] Evolutionary design 
 - [ ] Coding practices 
   - [ ] Testing
     - [ ] Why test
       - [ ] Design benefits   
       - [ ] Documentation expectations
       - [ ] Regression protection 
-    - [ ] Testing pyramid 
+    - [ ] Testing pyramid
+      - [ ] Unit tests
+      - [ ] Integration tests
+      - [ ] End-to-end tests
+    - [ ] Testing approaches 
+      - [ ] Red green refactor
+      - [ ] Fake it
+      - [ ] Obvious implementation 
+      - [ ] Triangulation
+      - [ ] Transformation Priority Premises
     - [ ] Outside-in testing
     - [ ] Test doubles
+    - [ ] Test coverage 
     - [ ] BDD 
     - [ ] TDD & TCR
 - [ ] Systems architecture 
