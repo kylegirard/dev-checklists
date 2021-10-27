@@ -1,4 +1,4 @@
-## Python Competency Outline
+## Python (>3.7) Competency Outline
 ### Competency Level: Beginner
 ___
 #### Concepts

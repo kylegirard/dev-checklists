@@ -2,7 +2,6 @@
   - [ ] Waterfall 
   - [ ] XP 
   - [ ] Agile
-  - [ ] 
   - [ ] ...
 - [ ] Language paradigms
   - [ ] Object Oriented
@@ -17,8 +16,42 @@
       - [ ] YAGINI
   - [ ] Functional 
   - [ ] Procedural 
+  - [ ] Imperative
+  - [ ] Declarative 
+  - [ ] Logic 
+- [ ] Mathematic Foundations
+  - [ ] Discrete mathematics 
+  - [ ] Calculus I—III
+  - [ ] Linear Algebra 
+  - [ ] Statistics & Probability 
+- [ ] Algorithm design 
+- [ ] Data structures 
 - [ ] Software design processes 
-  - [ ] Patterns 
+  - [ ] Patterns
+    - [ ] Creational
+      - [ ] Singleton
+      - [ ] Factory Method
+      - [ ] Builder
+      - [ ] Prototype
+    - [ ] Structural
+      - [ ] Adapter
+      - [ ] Bridge
+      - [ ] Decorator
+      - [ ] Facade
+      - [ ] Flyweight
+      - [ ] Proxy
+    - [ ] Behavioral
+      - [ ] Interpreter
+      - [ ] Template Method
+      - [ ] Chain of Responsibility
+      - [ ] Command
+      - [ ] Iterator
+      - [ ] Mediator
+      - [ ] Memento
+      - [ ] Observer
+      - [ ] State 
+      - [ ] Strategy
+      - [ ] Visitor 
   - [ ] Diagramming 
     - [ ] UML diagrams 
       - [ ] Class diagrams
