@@ -4,8 +4,6 @@ ___
 #### Concepts
 - [ ] Basic environment setup
 - [ ] Variables
-  - [ ] Local
-  - [ ] Global
   - [ ] Naming
 - [ ] Basic types
   - [ ] Integers
@@ -67,9 +65,10 @@ ___
     - [ ] Arbitrary keyword
   - [ ] As objects (higher order functions)
   - [ ] Block structure
-  - [ ] Scope
   - [ ] Recursion
 - [ ] Scopes and namespaces
+    - [ ] Local
+    - [ ] Global
 - [ ] User input
   - [ ] Input validation 
 - [ ] Comments 
