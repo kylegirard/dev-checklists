@@ -2,31 +2,41 @@
 ### Competency Level: Beginner
 ___
 #### Concepts
-- [ ] Basic environment setup
-- [ ] Variables
-  - [ ] Naming
+- [ ]  Basic environment setup
+- [ ]  Variables
+  - [ ]  Naming
 - [ ] Basic types
-  - [ ] Integers
-    - [ ] Decimal form 
-    - [ ] Binary form
-    - [ ] Octal form
-    - [ ] Hexa form
-  - [ ] Constant floating point values (3.2 x 10^-12)
-  - [ ] Strings
-  - [ ] Float
-- [ ] Basic built-in functions
-  - [ ] print
-  - [ ] type
-  - [ ] id
+  - [ ] Numeric
+    - [ ]  int
+      - [ ]  Base10/decimal form 
+      - [ ]  Binary form
+      - [ ]  Octal form
+      - [ ]  Hexa form
+    - [ ]  float
+      - [ ]  Constant floating point values (3.2 x 10^-12)
+    - [ ]  complex
+  - [ ]  Strings
+    - [ ]  Fstrings 
+  - [ ] bool
+  - [ ] Binary types
+    - [ ] bytes
+- [ ]  Basic built-in functions
+  - [ ]  print
+  - [ ]  type
+  - [ ]  id
 - [ ] Basic data structures 
   - [ ] Sequences
-    - [ ] Strings
-      - [ ] Functions
-      - [ ] String formatting 
-      - [ ] Fstrings 
-    - [ ] Lists
-    - [ ] Tuples
-  - [ ] Dictionaries and sets
+    - [ ]  list
+    - [ ]  tuple
+    - [ ] range
+  - [ ] Sets
+    - [ ]  set
+    - [ ] frozenset
+  - [ ]  dict
+  - [ ] Binary
+    - [ ] bytearray
+    - [ ] memoryview
+  - [ ]  Mutability 
 - [ ] Operators 
   - [ ] Assignment 
   - [ ] Arithmetic
@@ -35,7 +45,6 @@ ___
   - [ ] Membership
   - [ ] Identity
 - [ ] Type casting
-- [ ] Mutability 
 - [ ] Control flow
   - [ ] If else
 - [ ] Conditional execution
@@ -77,13 +86,15 @@ ___
 - [ ] Basic standard library
   - [ ] Dates & times
   - [ ] Random numbers
-  - [ ] Math library
+  - [ ] Math module
+  - [ ] Fractions module
 #### Projects
   - [ ] Script w/ modules
 
 ### Competency Level: Novice 
 ___
 #### Concepts
+- [ ] Truth value testing
 - [ ] Using python packages from PyPi
 - [ ] Object oriented programming
   - [ ] Classes
