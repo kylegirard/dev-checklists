@@ -3,6 +3,11 @@
   - [ ] XP 
   - [ ] Agile
   - [ ] ...
+- [ ] Representation independence 
+- [ ] Concurrent programming 
+  - [ ] Message passing
+  - [ ] Shared memory
+  - [ ] Defence from race and deadlock
 - [ ] Language paradigms
   - [ ] Object Oriented
     - [ ] Principles 
@@ -14,18 +19,13 @@
       - [ ] SOLID
       - [ ] DRY
       - [ ] YAGINI
-  - [ ] Functional 
+  - [ ] Functional
+    - [ ] Higher order functions
+    - [ ] Immutable data
   - [ ] Procedural 
   - [ ] Imperative
   - [ ] Declarative 
   - [ ] Logic 
-- [ ] Mathematic Foundations
-  - [ ] Discrete mathematics 
-  - [ ] Calculus I—III
-  - [ ] Linear Algebra 
-  - [ ] Statistics & Probability 
-- [ ] Algorithm design 
-- [ ] Data structures 
 - [ ] Software design processes 
   - [ ] Patterns
     - [ ] Creational

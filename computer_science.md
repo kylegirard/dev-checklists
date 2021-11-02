@@ -1,0 +1,17 @@
+- [ ] Computational structures
+- [ ] Algorithm design 
+- [ ] Data structures 
+- [ ] Mathematic Foundations
+  - [ ] Discrete mathematics 
+  - [ ] Calculus I—III
+  - [ ] Linear Algebra 
+  - [ ] Statistics & Probability 
+- [ ] Software engineering (see checklist)
+- [ ] Computer system engineering
+  - [ ] Hardware engineering
+  - [ ] Operating systems
+  - [ ] Networks
+- [ ] Artificial Intelligence & ML
+- [ ] Computability and Complexity Theory
+- [ ] Robotics 
+- [ ] Interconnected Embedded Systems
