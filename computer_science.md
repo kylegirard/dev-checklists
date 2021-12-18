@@ -1,6 +1,46 @@
 - [ ] Computational structures
-- [ ] Algorithm design 
-- [ ] Data structures 
+- [ ] Algorithm design
+  - [ ] Asymptotic complexity
+  - [ ] Sorting algorithms
+    - [ ] Simple
+    - [ ] Advanced 
+- [ ] Data structures
+  - [ ] **FOR EACH**
+    - [ ]  Definitions/concepts
+    - [ ]  Basic operations
+    - [ ]  Implementation
+    - [ ]  Applications
+    - [ ]  Common questions 
+  - [ ] Arrays
+    - [ ] One-dimensional 
+    - [ ] Multi-dimensional 
+    - [ ] Suffix Arrays   
+  - [ ] Linked lists
+    - [ ] Singly linked lists
+    - [ ] Doubly linked lists
+    - [ ] Circular linked lists
+    - [ ] Freelists
+  - [ ] Stack
+    - [ ] Linked stacks
+  - [ ] Queue
+    - [ ] Priority Queue
+    - [ ] Deque
+    - [ ] Linked Queues [http://lti.cs.vt.edu/OpenDSA/Books/CS5040/html/QueueLinked.html#id1]
+  - [ ] Hash Table
+  - [ ] Trees
+    - [ ] Binary (N-ary) tree
+    - [ ] Binary search tree
+    - [ ] Fenwick Trees (Binary Indexed)
+    - [ ] Heap
+      - [ ] Min Heap
+      - [ ] Max Heap
+    - Suffix Trees
+    - [ ] Tries
+    - [ ] Treaps 
+  - [ ] Graphs
+    - [ ] Directed
+    - [ ] Undirected
+  - [ ] Disjoint-Set (union-find)
 - [ ] Mathematic Foundations
   - [ ] Discrete mathematics 
   - [ ] Calculus I—III
