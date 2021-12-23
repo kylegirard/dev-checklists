@@ -61,6 +61,7 @@ Consider organizing by:
   - [ ] Automata-based 
   - [ ] Metaprogramming
   - [ ] Domain languages 
+- [ ] Program verification [https://www.cs.cornell.edu/courses/cs3110/2017fa/l/23-coq-verification/lec.pdf]
 - [ ] Language features
   - [ ] Type checking [https://en.wikipedia.org/wiki/Type_system#Type_checking]
     - [ ] Static vs dynamic 
