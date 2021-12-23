@@ -1,24 +1,55 @@
-- [ ] Engineering workflows
+<!-- 
+WIP
+Consider organizing by:
+  1. Stage of development workflow  
+  2. Stage of skill development 
+  3. Alphabetically 
+ -->
+
+- [ ] Engineering workflows & approaches 
   - [ ] Waterfall 
   - [ ] XP 
+  - [ ] Lean
+  - [ ] Kanban
+  - [ ] Structured analysis
+  - [ ] Structured design
   - [ ] Agile
-  - [ ] ...
+  - [ ] Paired programming
+  - [ ] Defensive programming (good error handling)
+  - [ ] Design by contract [https://en.wikipedia.org/wiki/Design_by_contract] 
 - [ ] Representation independence 
 - [ ] Concurrent programming 
   - [ ] Message passing
   - [ ] Shared memory
   - [ ] Defence from race and deadlock
-- [ ] Language paradigms
+- [ ] Craftsmanship 
+  - [ ] Design smells
+  - [ ] Design Principles
+    - [ ] SOLID
+    - [ ] DRY
+    - [ ] YAGINI
+- [ ] Programming paradigms [https://en.wikipedia.org/wiki/Programming_paradigm]
   - [ ] Object Oriented
+    - [ ] Language components
+      - [ ] initialization and instantiation  
+      - [ ] classes
+        - [ ] abstract & concrete
+      - [ ] access modifiers
+      - [ ] inferfaces
+      - [ ] overrides 
+      - [ ] destructors
+      - [ ] anonymous types
+      - [ ] dynamic building
+    - [ ] Language concepts 
+      - [ ] Cohesion and loosing coupling 
+      - [ ] Composition
+      - [ ] Traits
+      - [ ] Caching strategies
     - [ ] Principles 
       - [ ] Abstraction
       - [ ] Encapsulation 
       - [ ] Inheritance 
       - [ ] Polymorphism 
-    - [ ] Design Principles
-      - [ ] SOLID
-      - [ ] DRY
-      - [ ] YAGINI
   - [ ] Functional
     - [ ] Higher order functions
     - [ ] Immutable data
@@ -26,6 +57,14 @@
   - [ ] Imperative
   - [ ] Declarative 
   - [ ] Logic 
+  - [ ] Event-driven 
+  - [ ] Automata-based 
+  - [ ] Metaprogramming
+  - [ ] Domain languages 
+- [ ] Language features
+  - [ ] Type checking [https://en.wikipedia.org/wiki/Type_system#Type_checking]
+    - [ ] Static vs dynamic 
+    - [ ] Strong vs weak 
 - [ ] Software design processes 
   - [ ] Patterns
     - [ ] Creational
@@ -62,6 +101,8 @@
       - [ ] Use-case diagrams
       - [ ] Package diagrams 
       - [ ] State diagrams
+      - [ ] Threat models 
+    - [ ] Decision tables
     - [ ] Upfront design
     - [ ] Evolutionary design 
 - [ ] Coding practices 
@@ -85,5 +126,63 @@
     - [ ] Test coverage 
     - [ ] BDD 
     - [ ] TDD & TCR
+- [ ] Refactoring 
+  - [ ] decoupling
+  - [ ] orthogonality
+- [ ] Software profiling
+  - [ ] 
+- [ ] Software releases
+  - [ ] User testing
+  - [ ] Feature toggles
 - [ ] Systems architecture 
-  - [ ] Patterns 
+  - [ ] Patterns
+ - [ ] Memory management
+    - [ ] Pointers
+    - [ ] Stack & heap
+- [ ] Databases
+  - [ ] SQL
+  - [ ] NOSQL
+    - [ ] Key value
+    - [ ] Graph
+    - [ ] Document
+- [ ] Complementary domains
+  - [ ] Dev ops
+    - [ ] CI/CD
+  - [ ] Communication 
+- [ ] API and Service Design
+  - [ ] REST
+  - [ ] HATEOES
+  - [ ] GraphQL
+- [ ] Protocols 
+  - [ ] TCP/IP
+  - [ ] HTTP(S)
+  - [ ] RCP
+- [ ] Code inspection
+  - [ ] Reverse engineering 
+- [ ] Contributing 
+  - [ ] Open-source
+  - [ ] Software licensing
+- [ ] Security 
+  - [ ] Package vetting & management [https://nvd.nist.gov/vuln/search;https://blog.bitsrc.io/5-best-practices-when-choosing-third-party-npm-packages-2198994357f9 ]
+  - [ ] Patch management  
+  - [ ] Threat modeling 
+  - [ ] Pen testing 
+  - [ ] Chaos engineering 
+  - [ ] Data protection
+    - [ ] GDPR
+    - [ ] PII 
+    - [ ] PCI
+- [ ] Accessibility
+  - [ ] WCAG
+  - [ ] ADA
+- [ ] Metrics
+  - [ ] ilities 
+- [ ] Machine learning & AI
+  - [ ] Computer vision
+- [ ] Streams
+- [ ] Socket programming 
+- [ ] Big Data
+  - [ ] Data structures 
+  - [ ] Map/reduce
+  - [ ] Program chaining 
+

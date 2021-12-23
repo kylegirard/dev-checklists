@@ -1,9 +1,24 @@
+<!-- 
+WIP
+Consider organizing by:
+  1. Stage of development workflow  
+  2. Stage of skill development 
+  3. Alphabetically 
+ -->
+ 
 - [ ] Computational structures
-- [ ] Algorithm design
+- [ ] Algorithms
   - [ ] Asymptotic complexity
-  - [ ] Sorting algorithms
+  - [ ] Divide and conquer
+  - [ ] Traversal
+  - [ ] Brute force 
+  - [ ] Greedy 
+  - [ ] Recursive
+  - [ ] Branch-and-bound
+  - [ ] Sorting
     - [ ] Simple
     - [ ] Advanced 
+  - [ ] Hashing 
 - [ ] Data structures
   - [ ] **FOR EACH**
     - [ ]  Definitions/concepts
@@ -66,6 +81,7 @@
   - [ ] Statistics & Probability 
 - [ ] Software engineering (see checklist)
 - [ ] Computer system engineering
+  - [ ] Computer organization and design
   - [ ] Hardware engineering
   - [ ] Operating systems
   - [ ] Networks
@@ -73,3 +89,11 @@
 - [ ] Computability and Complexity Theory
 - [ ] Robotics 
 - [ ] Interconnected Embedded Systems
+- [ ] Complementary domains (breath)
+  - [ ] Entrepreneurship
+  - [ ] User Research (HCD)
+  - [ ] Systems thinking
+  - [ ] Design thinking
+  - [ ] IT
+  - [ ] UI & UX design 
+

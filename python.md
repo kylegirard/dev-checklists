@@ -1,3 +1,10 @@
+<!-- 
+WIP
+Consider organizing by:
+  1. Stage of skill development
+  2. Alphabetically 
+ -->
+
 ## Python (>3.7) Competency Outline
 ### Competency Level: Beginner
 ___
@@ -26,8 +33,8 @@ ___
   - [ ]  id
 - [ ] Basic data structures 
   - [ ] Sequences
-    - [ ]  list
-    - [ ]  tuple
+    - [ ] list
+    - [ ] tuple
     - [ ] range
   - [ ] Sets
     - [ ]  set
@@ -168,8 +175,11 @@ ___
 - [ ] Language Mechanics
   - [ ] Interpreted and compiled
   - [ ] Variables 
-  - [ ] Memory management 
+  - [ ] Memory management
+    - [ ] Pointers
+    - [ ] Stack & heap
     - [ ] Garbage collection
+- [ ] Character encoding
 #### Projects
 - [ ] Create a library
   - [ ] Concepts
@@ -182,7 +192,7 @@ ___
     - [ ] Configuration
   - [ ] Capturing user input
   - [ ] Documentation
-  - [ ] Packaging & deployment 
+  - [ ] Packaging & deployment  
 - [ ] APIs
   - [ ] Django
     - [ ] Routes
@@ -201,6 +211,7 @@ ___
   - [ ] Subtyping
     - [ ] Nominal 
     - [ ] Structural
+- [ ] Socket programming [https://realpython.com/python-sockets/]
 - [ ] Profiling tools
   - [ ] cProfile
   - [ ] timeit (benchmarking)
@@ -249,6 +260,7 @@ ___
   - [ ] Multiprocessing
   - [ ] Threading
   - [ ] GIL workarounds
+  - [ ] Multiprocessing vs multithreading 
 - [ ] Cryptography
   - [ ] hashlib
   - [ ] hmac
