@@ -61,7 +61,8 @@ Consider organizing by:
   - [ ] Automata-based 
   - [ ] Metaprogramming
   - [ ] Domain languages 
-- [ ] Program verification [https://www.cs.cornell.edu/courses/cs3110/2017fa/l/23-coq-verification/lec.pdf]
+- [ ] Program correctness & verification [https://www.cs.cornell.edu/courses/cs3110/2017fa/l/23-coq-verification/lec.pdf; https://www.cs.cornell.edu/courses/cs312/2004fa/lectures/lecture9.htm]
+- [ ] 
 - [ ] Language features
   - [ ] Type checking [https://en.wikipedia.org/wiki/Type_system#Type_checking]
     - [ ] Static vs dynamic 
@@ -109,6 +110,7 @@ Consider organizing by:
 - [ ] Coding practices 
   - [ ] Testing
     - [ ] Why test
+      - [ ] Correctness  
       - [ ] Design benefits   
       - [ ] Documentation expectations
       - [ ] Regression protection 
