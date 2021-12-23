@@ -153,10 +153,10 @@ Consider organizing by:
   - [ ] REST
   - [ ] HATEOES
   - [ ] GraphQL
+  - [ ] RPC
 - [ ] Protocols 
   - [ ] TCP/IP
   - [ ] HTTP(S)
-  - [ ] RCP
 - [ ] Code inspection
   - [ ] Reverse engineering 
 - [ ] Contributing 
