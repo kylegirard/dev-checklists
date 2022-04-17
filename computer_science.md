@@ -5,9 +5,13 @@ Consider organizing by:
   2. Stage of skill development 
   3. Alphabetically 
  -->
- 
-- [ ] Computational structures
-- [ ] Algorithms
+<details>
+<summary>Computational structures</summary>
+  
+</details>
+<details>
+<summary>Algorithms</summary>
+  
   - [ ] Asymptotic complexity
   - [ ] Divide and conquer
   - [ ] Traversal
@@ -19,6 +23,8 @@ Consider organizing by:
     - [ ] Simple
     - [ ] Advanced 
   - [ ] Hashing 
+</details>
+
 - [ ] Data structures
   - [ ] **FOR EACH**
     - [ ]  Definitions/concepts
