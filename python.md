@@ -71,6 +71,7 @@ ___
   - [ ] User-defined exceptions
 - [ ] Elementary debugging 
   - [ ] print
+  - [ ] reading traceback
 - [ ] Functions
   - [ ] Definition and use
   - [ ] Arguments
