@@ -71,7 +71,7 @@ ___
   - [ ] User-defined exceptions
 - [ ] Elementary debugging 
   - [ ] print
-  - [ ] reading traceback
+  - [ ] reading traceback (https://realpython.com/python-traceback/)
 - [ ] Functions
   - [ ] Definition and use
   - [ ] Arguments
